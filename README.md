@@ -1,5 +1,7 @@
 # ktkq_curves_generator
 
+Descargar el archivo [main](https://github.com/eiidrovo/ktkq_curves_generator/blob/main/main.py)
+
 CREAR 7 CARPETAS CON LOS SIGUIENTES NOMBRES:
 * 2 blades
 * 3 blades
